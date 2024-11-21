@@ -1,0 +1,23 @@
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+a:hover {
+    color: blue;
+}
+
+h1 {
+    border-bottom: 3px solid black;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    margin: 0 calc(50vw - 200px);
+}
